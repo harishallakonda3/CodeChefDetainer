@@ -15,6 +15,7 @@ public class CodeChefApplication {
 		}catch(Exception e)
 		{
 			System.out.println(e);
+			return ;
 		}
 		System.out.println("UserNAme : " +dataManager.getuserName());
 		System.out.println("Current Rating : "+dataManager.getuserCurrentrating());
