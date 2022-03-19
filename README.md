@@ -7,7 +7,8 @@ CodechefDataManager
 ->  List of functions and their short description
 
 -> void setUserId(String userId)
-    :Used to set the userId of the user for which we want to fetch details
+   
+   :Used to set the userId of the user for which we want to fetch details
 -> int getUserCurrentRating()
 
    :This function returns current rating of the user
