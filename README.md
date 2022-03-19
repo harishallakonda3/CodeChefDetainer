@@ -30,6 +30,6 @@ CodechefDataManager
 
    :returns number of problems solved (partially) by user
    
-** ->int fullySolvedCount()**
+**->int fullySolvedCount()**
  
    :returns number of problems solved (completely) by user
