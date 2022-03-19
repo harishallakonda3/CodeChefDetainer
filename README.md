@@ -7,29 +7,22 @@ CodechefDataManager
 ->  List of functions and their short description
 
 -**> void setUserId(String userId)**
-   
-   :Used to set the userId of the user for which we want to fetch details
+         :Used to set the userId of the user for which we want to fetch details
    
 **-> int getUserCurrentRating()**
-
-   :This function returns current rating of the user
+         :This function returns current rating of the user
    
 **-> String getUserName()**
-
-  :returns Name of the user
+         :returns Name of the user
   
 **-> List getSolvedProblems()**
-
-  :returns list of problems (problem codes) solved (completely) by user
+         :returns list of problems (problem codes) solved (completely) by user
   
 **-> int partialSolvedCount()**
-
-   :returns list of problems (problem codes) solved (partially) by user
+         :returns list of problems (problem codes) solved (partially) by user
    
 **-> int partialSolvedCount()**
-
-   :returns number of problems solved (partially) by user
+         :returns number of problems solved (partially) by user
    
 **->int fullySolvedCount()**
- 
-   :returns number of problems solved (completely) by user
+         :returns number of problems solved (completely) by user
